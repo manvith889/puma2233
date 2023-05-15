@@ -1,0 +1,10 @@
+echo "# puma2233" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/manvith889/puma2233.git
+git push -u origin main
+git remote add origin https://github.com/manvith889/puma2233.git
+git branch -M main
+git push -u origin main
